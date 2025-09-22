@@ -20,9 +20,9 @@ added by @.caling
 
 <details>
 
-<summary>As a flick</summary>
+<summary>As a sideways flick</summary>
 
-While not actually considered a flick, it can be hit in the same way.
+Like a flick, you move your finger across a screen quickly; using a trace like this allows for flicking sideways.
 
 <figure><img src="../.gitbook/assets/traceflick.gif" alt=""><figcaption></figcaption></figure>
 
